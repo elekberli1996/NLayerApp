@@ -1,0 +1,6 @@
+C:\Users\Emin\Desktop\Csharp\NLayerAppDemo\NortwindEntities\bin\Debug\NortwindEntities.dll
+C:\Users\Emin\Desktop\Csharp\NLayerAppDemo\NortwindEntities\bin\Debug\NortwindEntities.pdb
+C:\Users\Emin\Desktop\Csharp\NLayerAppDemo\NortwindEntities\obj\Debug\Nortwind.Entities.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Csharp\NLayerAppDemo\NortwindEntities\obj\Debug\Nortwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\NLayerAppDemo\NortwindEntities\obj\Debug\NortwindEntities.dll
+C:\Users\Emin\Desktop\Csharp\NLayerAppDemo\NortwindEntities\obj\Debug\NortwindEntities.pdb
